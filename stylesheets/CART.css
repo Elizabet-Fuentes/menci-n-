@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+h1{
+    margin: auto;
+    font-family: "Orbitron", sans-serif;
+    color: rgb(255, 0, 221);
+    text-align: center;
+}
+.card{
+    width: 230px ;
+    height: 230px;
+    margin: auto;
+    background-color:  rgb(255, 0, 221);
+    border-radius: 10px;
+}
+.imagen{
+    width: 57px ;
+    height: 245px;
+    margin: auto;
+    background: url(../img/01-johnnie-walker-blue-label\ 1.png) ;
+}
